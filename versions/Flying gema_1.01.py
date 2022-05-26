@@ -20,7 +20,7 @@ while True:
 	#	sys.exit()
 		subprocess.check_call([sys.executable, "-m", "pip", "install", "requests, webbrowser"])
 try:
-	response = requests.get(f"https://Flyinggema-updater.saudaliwhitgift.repl.co/update.json").json()
+	response = requests.get(f"https://burpidoodledo.github.io/Flying-gema/update.json").json()
 	response_success = True
 #	print(response)
 except:
