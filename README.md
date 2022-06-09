@@ -1,5 +1,5 @@
 # Flying-gema
-An little game that I made when I was bored.
+A little game that I made when I was bored.
 
 That was 6 months ago.
 
